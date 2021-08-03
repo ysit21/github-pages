@@ -2,3 +2,7 @@ theme: jekyll-theme-slate
 google_analytics: G-W75DV7ZVF8
 plugins:
  - jekyll-sitemap
+sitemap:
+    path: sitemap.xml
+    template: ./sitemap_template.xml
+    rel: false
